@@ -1,6 +1,8 @@
 # Loading Overlay
 A simple loading overlay
 
+[Check it out](https://alicoskun.github.io/demo/loading-overlay/index.html)
+
 ## How to use
 #### To show loading overlay, use 
 
